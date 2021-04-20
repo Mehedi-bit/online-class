@@ -1,0 +1,76 @@
+[{
+    "id": 1,
+    "name": "2021 Complete Python Bootcamp From Zero to Hero in Python",
+    "instructor": "Darby Parbrook",
+    "price": 132.58
+  }, {
+    "id": 2,
+    "name": "Java Programming Masterclass for Software Developers",
+    "instructor": "Noreen Yashunin",
+    "price": 95.53
+  }, {
+    "id": 3,
+    "name": "Java Programming Masterclass for Software Developers",
+    "instructor": "Anastasia Guidera",
+    "price": 66.23
+  }, {
+    "id": 4,
+    "name": "Learn Python Programming Masterclass",
+    "instructor": "Thain Corbridge",
+    "price": 279.78
+  }, {
+    "id": 5,
+    "name": "Learn Python Programming Masterclass",
+    "instructor": "Franchot Spykins",
+    "price": 120.85
+  }, {
+    "id": 6,
+    "name": "The Complete Node.js Developer Course (3rd Edition)",
+    "instructor": "Betsey Atwill",
+    "price": 162.94
+  }, {
+    "id": 7,
+    "name": "The Complete Node.js Developer Course (3rd Edition)",
+    "instructor": "Leona Milier",
+    "price": 175.61
+  }, {
+    "id": 8,
+    "name": "Learning Python for Data Analysis and Visualization",
+    "instructor": "Blake Fewings",
+    "price": 55.26
+  }, {
+    "id": 9,
+    "name": "Spring & Hibernate for Beginners (includes Spring Boot)",
+    "instructor": "Mara Ganderton",
+    "price": 110.3
+  }, {
+    "id": 10,
+    "name": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+    "instructor": "Willie Garaghan",
+    "price": 240.68
+  }, {
+    "id": 11,
+    "name": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+    "instructor": "Barr Thresher",
+    "price": 298.79
+  }, {
+    "id": 12,
+    "name": "Python for Financial Analysis and Algorithmic Trading",
+    "instructor": "Ellerey Legion",
+    "price": 204.02
+  }, {
+    "id": 13,
+    "name": "The Ultimate Excel Programmer Course",
+    "instructor": "Mac Twiddy",
+    "price": 27.98
+  }, {
+    "id": 14,
+    "name": "The Modern Python 3 Bootcamp",
+    "instructor": "Brena Edards",
+    "price": 191.78
+  }, {
+    "id": 15,
+    "name": "C Programming For Beginners - Master the C Language",
+    "instructor": "Melba Beaby",
+    "price": 222.14
+  }]
